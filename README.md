@@ -4,7 +4,7 @@
 <title> CHARIS' PORTFOLIO </title>
 </head>
 <body> 
-<h1> About Me </h1>
+<h1> CHARIS' PORTFOLIO </h1>
 <p> I am Charis Wu, a student of Dunman High from class 1C. I graduated from Maha Bodhi School before entering Dunman High. </p>
 
 <h2> My Hobbies</h2>
